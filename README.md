@@ -10,7 +10,7 @@ Save all useful links for interesting topics
 --------------------
 
 ## Repositories
-_Some useful repositories to explore
+_Some useful repositories to explore_
 
 **[`^        back to top        ^`](#)**
 
@@ -18,7 +18,7 @@ _Some useful repositories to explore
 - [SysAdmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 
 ## Websites
-_Some useful websites to explore
+_Some useful websites to explore_
 
 **[`^        back to top        ^`](#)**
 
